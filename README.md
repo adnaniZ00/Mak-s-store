@@ -3,7 +3,7 @@
 A premium, high-performance Admin Dashboard built for the "Mak's Store" technical assessment.
 
 ## 🚀 Live Demo
-Once deployed to GitHub/Vercel, users can access the system using the following demo credentials:
+Once deployed to GitHub/Netlify, users can access the system using the following demo credentials:
 *   **Username**: `emilys`
 *   **Password**: `emilyspass`
 
